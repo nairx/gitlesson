@@ -4,5 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to GIT Tutorial!");
         System.out.println("Git Learning");
+        System.out.println("New Line");
+        System.out.println("Feature Branch");
     }
 }
